@@ -31,3 +31,7 @@ psycopg2: pip install psycopg2
 # In case you want to delete user:
     DROP OWNED BY py; 
     DROP USER py;
+
+# ------------------
+#  HAPPY CODING !!!
+# ------------------
